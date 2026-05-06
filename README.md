@@ -6,7 +6,7 @@
 
 ## Overview
 
-The GPU Resource Management System streamlines the process of allocating GPU workstations and DGX servers to students and faculty. Instead of manual coordination, users submit verified requests online, and administrators review, allocate, and track resources through a dedicated dashboard — all in real time.
+The GPU Resource Management System streamlines the process of allocating GPU workstations and DGX servers to students and faculty. Instead of manual coordination, users submit verified requests online, and administrators review, allocate, and track resources through a dedicated dashboard - all in real time.
 
 The system is actively used within the university network.
 
@@ -20,15 +20,15 @@ The system is actively used within the university network.
 - Email OTP verification (only `@kletech.ac.in` addresses allowed)
 - Resource request form (Workstation / DGX Server)
 - Real-time slot availability check before submission
-- Request queue cap — users are not allowed to request when queue exceeds 10 pending requests
+- Request queue cap - users are not allowed to request when queue exceeds 10 pending requests
 - Automated email confirmation on request submission
 
 ### Admin Dashboard
 - Live pending requests table with auto-refresh
-- Accept requests — single slot or multiple slots from the same resource
+- Accept requests - single slot or multiple slots from the same resource
 - Reject requests with optional reason
 - Resource overview with per-slot utilization visualization
-- Credential management — assign username/password per slot
+- Credential management - assign username/password per slot
 - Active allocations view with remaining days counter
 - Allocation history with date-range filtering
 - Automated email on accept/reject with access credentials
@@ -53,17 +53,17 @@ The system is actively used within the university network.
 ## Screenshots
 
 ### Home Page
-![Home page](home.png)
+![Home page](screenshots/home.png)
 ### OTP Verification
-![OTP mail](otp-mail.png)
+![OTP mail](screenshots/otp-mail.png)
 
 ### Admin — Pending Requests
-![OTP mail](pending-request.png)
+![OTP mail](screenshots/pending-request.png)
 ### Admin — Slot Selection
-![OTP mail](slot-selection.png)
+![OTP mail](screenshots/slot-selection.png)
 
 ### Admin — Resource Overview
-![OTP mail](resource-overview.png)
+![OTP mail](screenshots/resource-overview.png)
 
 ---
 
