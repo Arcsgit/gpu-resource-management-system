@@ -108,7 +108,7 @@ Solely responsible for the entire project lifecycle:
 
 ## License
 
-This project is proprietary and intended for internal use at KLE Technological University — Central Computing Facility. No open-source license is applied.
+This project is proprietary and intended for internal use at KLE Technological University - Central Computing Facility. No open-source license is applied.
 
 ---
 
@@ -122,4 +122,4 @@ Built by [Archit Shet]
 
 ---
 
-*Built for KLE Technological University — Central Computing Facility*
+*Built for KLE Technological University - Central Computing Facility*
