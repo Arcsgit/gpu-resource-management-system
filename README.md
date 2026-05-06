@@ -92,7 +92,7 @@ The system is actively used within the university network.
 
 ## Role / Contribution
 
-**Solo Developer — Full Stack**
+**Solo Developer - Full Stack**
 
 Solely responsible for the entire project lifecycle:
 
